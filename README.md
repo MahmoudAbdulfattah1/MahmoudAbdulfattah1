@@ -1,6 +1,5 @@
 # Hi 👋 , I'm Mahmoud Abdelfattah
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=MahmoudAbdulfattah1.MahmoudAbdulfattah1)
 
 A fresh graduate Software Engineer.
 Skilled in Django, Spring boot, and SQL. Strong engineering professional
@@ -14,35 +13,37 @@ October 6 University.
 
 ## 👀 Connect with me
 <a href="https://www.linkedin.com/in/mahmoud-a-fattah/" target="_blank">
-  <img alt="Mahmoud's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Mahmoud's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100004163979509" target="_blank">
-  <img alt="Mahmoud's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
+  <img alt="Mahmoud's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
 ## 💼 Technology Stack 
 
 - **Languages**: 
-  - ![C++](https://img.shields.io/badge/--00599C?style=flat-square&logo=c)
-  - ![Python](https://img.shields.io/badge/--3776AB?style=flat-square&logo=python)
-  - ![Java](https://img.shields.io/badge/--007396?style=flat-square&logo=java)
+  - ![C++](https://img.shields.io/badge/-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+  - ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white)
+  - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 - **Frameworks**:
-  - ![Django](https://img.shields.io/badge/--092E20?style=flat-square&logo=django)
-  - ![Spring Boot](https://img.shields.io/badge/--6DB33F?style=flat-square&logo=spring-boot)
+  - ![Django](https://img.shields.io/badge/-092E20?style=flat-square&logo=django&logoColor=white)
+  - ![Spring Boot](https://img.shields.io/badge/-6DB33F?style=flat-square&logo=spring&logoColor=white)
 - **Databases**:
-  - ![SQL](https://img.shields.io/badge/--4479A1?style=flat-square&logo=postgresql)
-  - ![MySQL](https://img.shields.io/badge/--4479A1?style=flat-square&logo=mysql)
+  - ![SQL](https://img.shields.io/badge/-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - **Version Control**:
-  - ![Git](https://img.shields.io/badge/--F05032?style=flat-square&logo=git)
-  - ![GitHub](https://img.shields.io/badge/--181717?style=flat-square&logo=github)
+  - ![Git](https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white)
+  - ![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)
 
+
+
+    
 ## 💻 Competitive Programming Profiles
-
 <a href="https://codeforces.com/profile/_Te7a_" target="_blank">
-  <img alt="Mahmoud's Codeforces" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/codeforces.svg" />
+  <img alt="Mahmoud's Codeforces" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" />
 </a>
 <a href="https://leetcode.com/te7aaaa/" target="_blank">
-  <img alt="Mahmoud's LeetCode" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/leetcode.svg" />
+  <img alt="Mahmoud's LeetCode" width="22px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
 </a>
 
 ## 📈 GitHub Stats
