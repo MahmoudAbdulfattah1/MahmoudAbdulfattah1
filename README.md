@@ -6,45 +6,54 @@ Skilled in Django, Spring boot, and SQL. Strong engineering professional
 with a Bachelor's degree focused in Computer science from
 October 6 University.
 
-
 ## 🌱 I'm currently learning Spring boot
-
 ## 📫 How to reach me ma.mahmoud.abdelfattah@gmail.com
 
 ## 👀 Connect with me
 
 <a href="https://www.linkedin.com/in/mahmoud-a-fattah/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img alt="LinkedIn" src="https://github.com/wael-gamil/Icons/blob/main/icons/LinkedIn.svg" width="50" height="50" />
 </a>
-&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100004163979509" target="_blank">
-  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img alt="Facebook" src="https://github.com/wael-gamil/Icons/blob/main/devicon-master/icons/facebook/facebook-original.svg" width="50" height="50" />
 </a>
 
 ## 💼 Technology Stack 
 
-- **Languages**: 
-  - ![C++](https://img.shields.io/badge/-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  - ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white)
-  - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+- **Languages**:
+ <p>
+  <img src="https://github.com/wael-gamil/Icons/blob/main/devicon-master/icons/cplusplus/cplusplus-original.svg"  width="50" height="50" />
+  <img src=https://github.com/wael-gamil/Icons/blob/main/icons/Java-Light.svg width="50" height="50" />
+  <img src=https://github.com/wael-gamil/Icons/blob/main/icons/Python-Light.svg width="50" height="50" />
+  </p>
+  
 - **Frameworks**:
-  - ![Django](https://img.shields.io/badge/-092E20?style=flat-square&logo=django&logoColor=white)
-  - ![Spring Boot](https://img.shields.io/badge/-6DB33F?style=flat-square&logo=spring&logoColor=white)
+<p>
+  <img src="https://github.com/wael-gamil/Icons/blob/main/icons/Django.svg"  width="50" height="50" />
+  <img src="https://github.com/wael-gamil/Icons/blob/main/icons/Spring-Light.svg" width="50" height="50" />
+  </p> 
+  
 - **Databases**:
-  - ![SQL](https://img.shields.io/badge/-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/-4479A1?style=flat-square&logo=mysql&logoColor=white)
+ <p>
+  <img src="https://github.com/wael-gamil/Icons/blob/main/icons/SQLite.svg"  width="50" height="50" />
+  <img src=https://github.com/wael-gamil/Icons/blob/main/devicon-master/icons/mysql/mysql-original-wordmark.svg width="50" height="50" />
+  </p> 
+  
 - **Version Control**:
-  - ![Git](https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white)
-  - ![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)
+<p>
+  <img src="https://github.com/wael-gamil/Icons/blob/main/devicon-master/icons/git/git-original.svg"  width="50" height="50" />
+  <img src="https://github.com/wael-gamil/Icons/blob/main/icons/Github-Light.svg" width="50" height="50" />
+  </p> 
+
 
     
 ## 💻 Competitive Programming Profiles
 
 <a href="https://codeforces.com/profile/_Te7a_" target="_blank">
-  <img alt="Mahmoud's Codeforces" width="35px" src="https://sta.codeforces.com/s/32079/images/codeforces-vs-coronavirus-65.png" />
-&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Codeforces" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="50" height="50" />
+</a>
 <a href="https://leetcode.com/te7aaaa/" target="_blank">
-  <img alt="Mahmoud's LeetCode" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
+  <img alt="LeetCode" src="https://github.com/wael-gamil/Icons/blob/main/leetcode.svg" width="50" height="50"  />
 </a>
 
 ## 📈 GitHub Stats
