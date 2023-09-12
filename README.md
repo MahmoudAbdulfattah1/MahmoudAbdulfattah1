@@ -1,13 +1,12 @@
 # Hi 👋 , I'm Mahmoud Abdelfattah
 
-
 A fresh graduate Software Engineer.
 Skilled in Django, Spring boot, and SQL. Strong engineering professional
 with a Bachelor's degree focused in Computer science from
 October 6 University.
 
-## 🌱 I'm currently learning Spring boot
-## 📫 How to reach me ma.mahmoud.abdelfattah@gmail.com
+<h3> 🌱 I'm currently learning Spring boot </h3>
+<h3> 📫 How to reach me : <a href="mailto:ma.mahmoud.abdelfattah@gmail.com"> ma.mahmoud.abdelfattah@gmail.com </a> </h3>
 
 ## 👀 Connect with me
 
