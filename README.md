@@ -12,11 +12,13 @@ October 6 University.
 ## 📫 How to reach me ma.mahmoud.abdelfattah@gmail.com
 
 ## 👀 Connect with me
+
 <a href="https://www.linkedin.com/in/mahmoud-a-fattah/" target="_blank">
-  <img alt="Mahmoud's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100004163979509" target="_blank">
-  <img alt="Mahmoud's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
 ## 💼 Technology Stack 
@@ -35,15 +37,14 @@ October 6 University.
   - ![Git](https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white)
   - ![GitHub](https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white)
 
-
-
     
 ## 💻 Competitive Programming Profiles
+
 <a href="https://codeforces.com/profile/_Te7a_" target="_blank">
-  <img alt="Mahmoud's Codeforces" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" />
-</a>
+  <img alt="Mahmoud's Codeforces" width="35px" src="https://sta.codeforces.com/s/32079/images/codeforces-vs-coronavirus-65.png" />
+&nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://leetcode.com/te7aaaa/" target="_blank">
-  <img alt="Mahmoud's LeetCode" width="22px" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" />
+  <img alt="Mahmoud's LeetCode" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />
 </a>
 
 ## 📈 GitHub Stats
