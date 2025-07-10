@@ -1,60 +1,30 @@
-# Hi 👋 , I'm Mahmoud Abdelfattah
+<h1 align="center"> Hey 👋, I'm Mahmoud Abdelfattah </h1>
 
-A fresh graduate Software Engineer.
-Skilled in Django, Spring boot, and SQL. Strong engineering professional
-with a Bachelor's degree focused in Computer science from
-October 6 University.
+<div align="center">
+        <img src='https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif' alt='Dinosaur Game' />
+</div>
 
-<h3> 🌱 I'm currently learning Spring boot </h3>
-<h3> 📫 How to reach me : <a href="mailto:ma.mahmoud.abdelfattah@gmail.com"> ma.mahmoud.abdelfattah@gmail.com </a> </h3>
+<br />
 
-## 👀 Connect with me
-
-<a href="https://www.linkedin.com/in/mahmoud-a-fattah/" target="_blank">
-  <img alt="LinkedIn" src="https://github.com/wael-gamil/Icons/blob/main/icons/LinkedIn.svg" width="50" height="50" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100004163979509" target="_blank">
-  <img alt="Facebook" src="https://github.com/wael-gamil/Icons/blob/main/devicon-master/icons/facebook/facebook-original.svg" width="50" height="50" />
-</a>
-
-## 💼 Technology Stack 
-
-- **Languages**:
- <p>
-  <img src="https://github.com/wael-gamil/Icons/blob/main/devicon-master/icons/cplusplus/cplusplus-original.svg"  width="50" height="50" />
-  <img src=https://github.com/wael-gamil/Icons/blob/main/icons/Java-Light.svg width="50" height="50" />
-  <img src=https://github.com/wael-gamil/Icons/blob/main/icons/Python-Light.svg width="50" height="50" />
-  </p>
-  
-- **Frameworks**:
 <p>
-  <img src="https://github.com/wael-gamil/Icons/blob/main/icons/Django.svg"  width="50" height="50" />
-  <img src="https://github.com/wael-gamil/Icons/blob/main/icons/Spring-Light.svg" width="50" height="50" />
-  </p> 
-  
-- **Databases**:
- <p>
-  <img src="https://github.com/wael-gamil/Icons/blob/main/icons/SQLite.svg"  width="50" height="50" />
-  <img src=https://github.com/wael-gamil/Icons/blob/main/devicon-master/icons/mysql/mysql-original-wordmark.svg width="50" height="50" />
-  </p> 
-  
-- **Version Control**:
-<p>
-  <img src="https://github.com/wael-gamil/Icons/blob/main/devicon-master/icons/git/git-original.svg"  width="50" height="50" />
-  <img src="https://github.com/wael-gamil/Icons/blob/main/icons/Github-Light.svg" width="50" height="50" />
-  </p> 
+  Fresh graduate Software Engineer with a passion for building robust backend solutions 🚀<br/>
+  Strong engineering professional with a Bachelor's degree in <strong>Computer Science</strong> from October 6 University 🎓<br/>
+  Ready to contribute to innovative projects and grow in the tech industry 💻
+</p>
 
+- 🌱 Currently learning and focusing on **backend development**
+- 📫 How to reach me? **ma.mahmoud.abdelfattah@gmail.com**
+- 📄 View my experiences: <a href="https://drive.google.com/file/d/19Q89aaOunzylu8R0m7GCVcDyYqP-DWXv/view" target="_blank">My CV</a>
 
-    
-## 💻 Competitive Programming Profiles
+<hr />
 
-<a href="https://codeforces.com/profile/_Te7a_" target="_blank">
-  <img alt="Codeforces" src="https://art.npanuhin.me/SVG/Codeforces/Codeforces.colored.svg" width="50" height="50" />
-</a>
-<a href="https://leetcode.com/te7aaaa/" target="_blank">
-  <img alt="LeetCode" src="https://github.com/wael-gamil/Icons/blob/main/leetcode.svg" width="50" height="50"  />
-</a>
-
-## 📈 GitHub Stats
-
-![Mahmoud's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudAbdulfattah1&show_icons=true)
+<p align=center>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,python" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=spring,django,docker,git,github" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,hibernate" />
+    <br/>
+  </a>
+</p>
