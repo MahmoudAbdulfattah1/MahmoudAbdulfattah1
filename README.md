@@ -1,4 +1,5 @@
 <h1 align="center"> Hey 👋, I'm Mahmoud Abdelfattah </h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=MahmoudAbdulfattah1&label=Profile%20views&color=0e75b6&style=flat" alt="MahmoudAbdulfattah1" /> </p>
 
 <div align="center">
         <img src='https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif' alt='Dinosaur Game' />
