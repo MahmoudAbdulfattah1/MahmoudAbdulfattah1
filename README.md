@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 👋, I'm Mahmoud Abdelfattah </h1>
+<h1 align="center"> Hey 👋, I'm Mahmoud Abdulfattah </h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=MahmoudAbdulfattah1&label=Profile%20views&color=0e75b6&style=flat" alt="MahmoudAbdulfattah1" /> </p>
 
 <div align="center">
